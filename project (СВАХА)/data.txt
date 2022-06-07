@@ -1,0 +1,5 @@
+ann1 122 Ann 0 17 Kolomna crednee 2 programming drawing 
+f4 123 Oleg 0 20 Moscow high 1 design 
+fgr 98 Nikita 1 19 Kolomna high 1 programming 
+kir 777 Kirill 1 17 Moscow high 2 programming design
+verka 765 Vera 0 18 Moscow crednee 1 drawing
